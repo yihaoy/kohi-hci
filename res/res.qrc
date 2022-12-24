@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/res">
+    <file alias="iPhone">iPhone.png</file>
+    <file alias="welcome">welcome.png</file>
+    <file alias="security">security.avi</file>
+    </qresource>
+</RCC>

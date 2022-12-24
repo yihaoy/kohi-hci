@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file alias="main.qml">main.qml</file>
+        <file alias="Koti.qml">Koti.qml</file>
+        <file alias="KotiMobile.qml">KotiMobile.qml</file>
+    </qresource>
+    <qresource prefix="/qml/components">
+        <file alias="KotiButton.qml">components/KotiButton.qml</file>
+        <file alias="KotiLabel.qml">components/KotiLabel.qml</file>
+    </qresource>
+    <qresource prefix="/qml/pages">
+        <file alias="Login.qml">pages/Login.qml</file>
+        <file alias="Welcome.qml">pages/Welcome.qml</file>
+        <file alias="RingDoorbell.qml">pages/RingDoorbell.qml</file>
+    </qresource>
+</RCC>
